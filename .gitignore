@@ -1,0 +1,36 @@
+# Compiled binary executables
+*.exe
+*.out
+*.dll
+
+# Dependency directories
+/vendor/
+/go.sum
+/go.mod
+
+# Compiled object files, as well as .rsc files produced by version 1.5
+*.o
+*.obj
+*.rsc
+
+# Cache and temporary files
+.cache/
+.tmp/
+
+# Log files
+*.log
+
+# Binary files
+*.bin
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Local binary files for tools like `go install`
+/bin/
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
